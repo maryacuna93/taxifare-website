@@ -1,1 +1,2 @@
+protobuf==4.25.6
 streamlit
